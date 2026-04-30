@@ -37,5 +37,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA17B4&height=120&section=footer"/>
 
-
+![snake gif](https://github.com/Lolisdu/Lolisdu/blob/output/snake.svg)
 
