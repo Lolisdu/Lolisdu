@@ -9,8 +9,7 @@
   </p>
   <br/br>
    <img align="right" height="500cm" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/inteligencia.jpg"/>
-  
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lolisdu&layout=compact&bg_color=000&border_color=F633FF&title_color=370458&text_color=FFF)
+
   
   <div align="center">
     <p> ★彡[ʟɪɴɢᴜᴀɢᴇɴꜱ ᴛᴏᴘ]彡★ </p>
@@ -37,5 +36,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA17B4&height=120&section=footer"/>
 
-![snake gif](https://github.com/Lolisdu/Lolisdu/blob/output/snake.svg)
+
 
